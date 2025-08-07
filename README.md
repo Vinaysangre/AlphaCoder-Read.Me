@@ -16,7 +16,7 @@ I'm a passionate **Data Science** and **Data Analytics** enthusiast who loves tr
 
 ## 🧩 Featured Projects
 
-### 🔹 **[🌦️ Alpha_Coder](https://github.com/Vinaysangre/Alpha_Coder)**
+### 🔹 **[🌦️ Wheather_Forecast](https://github.com/Vinaysangre/Wheather_Forecast)**
 Weather Dashboard (Power BI Project) This Power BI dashboard provides a comprehensive analysis of weather conditions using interactive visuals and dynamic filters. The project focuses on visualizing key weather parameters such as:
 
 ### 🔹 **[SHOPIFY-SALES-CUSTOMER-FUNNEL-REPORT](https://github.com/Vinaysangre/SHOPIFY-SALES-CUSTOMER-FUNNEL-REPORT)**
