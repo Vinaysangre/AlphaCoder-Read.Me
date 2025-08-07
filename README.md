@@ -1,7 +1,7 @@
 # 👋 Hii, I'm Vinay Sangre
 
 Welcome to my GitHub profile!  
-I'm a passionate **Data Science** and **Data Analytics** enthusiast who loves transforming raw data into meaningful insights. I build smart, efficient, and impactful projects that solve real-world problems.
+I'm a passionate **Data Science** and **Data Analytics** enthusiast who loves transforming raw data into meaningful insights. I build smart, efficient, and impactful projects that solve real-world problems.. Proven ability to work in fast-paced environments while maintaining high standards of data accuracy and integrity. 
 
 ---
 
